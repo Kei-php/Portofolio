@@ -5,6 +5,7 @@ const PLAYLIST = [
   { id: 'Osk6gX6R_bA', title: 'Beneath the Mask',   source: 'Persona 5 OST \u2014 Rain Ver.' },
   { id: 'CVLH5V6YvOI', title: 'Heaven',              source: 'Persona 4 OST' },
   { id: 'xxpg9_2on3I', title: '3:03 PM',             source: 'Sharou' },
+  { id: '_im7hqgjQrs', title: 'Town Theme',          source: 'Harvest Moon: BTN OST' },
 ];
 
 export function BGMPlayer() {
