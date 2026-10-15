@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 
 const PLAYLIST = [
+  { id: 'zCxRCfUeAiI', title: 'A Sorrowful Reunion', source: 'Reality Club' },
   { id: 'CELqNBjpdms', title: 'Color Your Night',   source: 'Persona 3 Reload OST' },
   { id: 'Osk6gX6R_bA', title: 'Beneath the Mask',   source: 'Persona 5 OST \u2014 Rain Ver.' },
   { id: 'CVLH5V6YvOI', title: 'Heaven',              source: 'Persona 4 OST' },
